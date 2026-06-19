@@ -1,0 +1,25 @@
+- Java JDK 8 or above
+- Any Java IDE (VS Code, IntelliJ IDEA, Eclipse)
+
+Project Features:
+1. Accept student name.
+2. Accept number of subjects.
+3. Accept marks for each subject (0-100).
+4. Validate marks.
+5. Calculate:
+   - Total Marks
+   - Average Marks
+   - Percentage
+6. Find:
+   - Highest Marks
+   - Lowest Marks
+7. Assign Grade:
+   A : 90-100
+   B : 80-89
+   C : 70-79
+   D : 60-69
+   F : Below 60
+8. Display PASS if percentage >= 40.
+9. Display FAIL otherwise.
+10. Format percentage up to two decimal places.
+
